@@ -1,1 +1,1 @@
-# customer_segmentation_using_KNN
+# customer_segmentation_+_category_prediction
